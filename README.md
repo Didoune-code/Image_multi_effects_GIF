@@ -22,4 +22,4 @@ Here the original image
 ![SPIN](Img_expl.png)
 
 Here the transformed gif
-![SPIN_gif](result_expl/result.gif)
+![](result_expl/result.gif)
