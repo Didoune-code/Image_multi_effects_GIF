@@ -17,3 +17,9 @@ Some libraries are used such as :
 - [matplotlib](https://matplotlib.org/) for plotting
 - [imageio](https://pypi.org/project/imageio/) for gif animation
 - 'random' for fun and also 'math', 'os', 'sys'
+
+Here the original image
+![SPIN](https://github.com/Didoune-code/Image_multi_effects_GIF/blob/main/Img_expl.png)
+
+Here the transformed gif
+![SPIN_gif](https://github.com/Didoune-code/Image_multi_effects_GIF/blob/main/result_expl/result.gif)
