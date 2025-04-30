@@ -19,7 +19,7 @@ Some libraries are used such as :
 - 'random' for fun and also 'math', 'os', 'sys'
 
 Here the original image
-![SPIN](https://github.com/Didoune-code/Image_multi_effects_GIF/blob/main/Img_expl.png)
+![SPIN](Img_expl.png)
 
 Here the transformed gif
-![SPIN_gif](https://github.com/Didoune-code/Image_multi_effects_GIF/blob/main/result_expl/result.gif)
+![SPIN_gif](result_expl/result.gif)
